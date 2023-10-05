@@ -1,0 +1,12 @@
+input #username{
+    border: black 2px solid;
+}
+
+input #city{
+    border: black 2px solid;
+}
+
+input #pincode{
+    border: black 2px solid;
+}
+
